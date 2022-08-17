@@ -50,6 +50,9 @@ Accept `wire` instead of character to draw nicer box!
     |    |
     |    |
     +----+
+    
+    > abox.exe 1 1
+    +
 ```
 
 ### Report Invalid Arguments (plus return code)
