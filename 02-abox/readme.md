@@ -20,7 +20,7 @@ Draw text box with given height and width.
 ```
 
 
-## Bounce Option
+## Bounce Options
 You can add optional arguments to the box-drawing
 
 ### Draw Character
