@@ -35,7 +35,7 @@ Create a table with 8 entries and size of 10bit
 ```
 
 
-## Options
+## Option: Create Sine/Cosine Samples
 Create IQ samples by printing sine and cosine samples. Enable this mode if user send `c` as third argument:
 ```
 $ ./sintable 4 8 c
@@ -45,3 +45,7 @@ $ ./sintable 4 8 c
 -127 0
 ```
 **NOTE:** Aligned printing for the second column is optional!
+
+## Option: Check user input validity and print usage
+Check if all user inputs are valid and provide proper usage command
+in case of invalid arguments.
