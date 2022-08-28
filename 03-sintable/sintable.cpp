@@ -1,12 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-// int main(int argc, char* argv[])
-// {
-//     std::cout<<"Hello World!"<<std::endl;
-//     return 0;
-// }
-
 #define OR ||
 #define AND &&
 
@@ -33,7 +27,7 @@ bool isPositiveNumber(char number[]);
 int main(int argc, char *argv[])
 {
     argc--;
-    if ((argc != 2) and (argc != 3))
+    if ((argc != 2) AND (argc != 3))
     {
         gen_error(invalid_arg_num);
         return 1;
