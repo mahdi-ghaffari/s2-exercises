@@ -1,0 +1,10 @@
+#####################################
+#      Class Grades Management      #
+# --------------------------------- #
+#                                   #
+# 1. Display All Grades             #
+# 2. Show The Best Grade            #
+# 3. Calculate Class Average Grade  #
+# 4. Get List of Failed Students    #
+# 0. Exit                           #
+#####################################
