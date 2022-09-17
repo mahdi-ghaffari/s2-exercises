@@ -10,10 +10,10 @@ Write a program to read the list of parts in csv format and generate a aggregate
 
 How to run from console:
 ```
-./bomgen parts.csv output-bom.csv
+./bomgen input-parts.csv output-bom.csv
 ```
 
-`parts.csv`
+`input-parts.csv`
 ```
 designator,part
 C5,CT-10uf
